@@ -1,7 +1,7 @@
 ---
-title: "ÕÅÔ²½ÌÊÚ¿ÎÌâ×é"
+title: "å¼ åœ†æ•™æˆè¯¾é¢˜ç»„"
 layout: homelay
-excerpt: "ÕÅÔ²½ÌÊÚ¿ÎÌâ×é"
+excerpt: "å¼ åœ†æ•™æˆè¯¾é¢˜ç»„"
 sitemap: false
 permalink: /
 ---
@@ -45,10 +45,10 @@ We are based at the [Institute for Manufacturing](https://ifm.eng.cam.ac.uk) in 
   </a>
 </div>
 
-**Photo credits:** Â© Felice Frankel, research scientist, Department of Chemical Engineering at MIT, Douglas Brion, PhD student, Department of Engineering at University of Cambridge
+**Photo credits:** æ¼ Felice Frankel, research scientist, Department of Chemical Engineering at MIT, Douglas Brion, PhD student, Department of Engineering at University of Cambridge
 
 
-The group is working on:
+æœ¬ç»„çš„ä¸»è¦ç ”ç©¶æ–¹å‘åŒ…æ‹¬:
 
 **Digitally tailored medical devices**  
 Producing wearable and implantable medical devices that better mimic and integrate with patients/wearers.
