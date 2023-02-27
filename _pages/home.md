@@ -11,13 +11,13 @@ permalink: /
 
 本组的主要研究方向包括:
 
-**Digitally tailored medical devices**  
-Producing wearable and implantable medical devices that better mimic and integrate with patients/wearers.
+**城市公共空间声环境质量研究**  
+我们关注城市公共空间的声环境质量，使用多种方法，如主观评价、客观测量、实验研究等，研究不同声源对人们的主观体验和健康的影响，并提出相应的改善策略，为城市规划和公共空间管理提供科学依据。
 
-**Materials for additive manufacturing**  
-Developing new materials whose structure and composition enable unique functionality.
+**交通噪声及其影响研究**  
+我们关注交通噪声及其对人们健康和生活的影响，系统研究交通噪声的特征和影响机制，使用客观测量、实验研究、文献综述等方法，为城市交通规划和噪声控制提供科学依据。
 
-**Learning 3D printers**  
-Understanding how machine learning approaches can improve the capabilities of 3D printers.
+**声景恢复性效益及其机制研究**  
+我们关注声景恢复性效益及其机制，研究声景恢复对人们主观体验和心理健康的影响机制，使用实验研究、生理测量、心理问卷等方法，为城市公共空间的声环境改善提供科学依据。
 
 <br>
