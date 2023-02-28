@@ -1,7 +1,7 @@
 ---
-title: "发表成果|张圆教授课题组"
+title: "发表成果 | 张圆教授课题组"
 layout: gridlay
-excerpt: "发表成果|张圆教授课题组"
+excerpt: "发表成果 | 张圆教授课题组"
 sitemap: false
 permalink: /publications/
 ---
