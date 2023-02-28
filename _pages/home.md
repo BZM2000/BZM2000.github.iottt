@@ -1,7 +1,7 @@
 ---
-title: "张圆教授课题组"
+title: "主页 | 张圆教授课题组"
 layout: homelay
-excerpt: "张圆教授课题组"
+excerpt: "主页 | 张圆教授课题组"
 sitemap: false
 permalink: /
 ---
