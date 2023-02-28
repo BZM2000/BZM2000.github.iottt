@@ -1,7 +1,7 @@
 ---
-title: "研究进展"
+title: "研究进展 | 张圆教授课题组"
 layout: textlay
-excerpt: "研究进展"
+excerpt: "研究进展 | 张圆教授课题组"
 sitemap: false
 permalink: /research/
 ---
