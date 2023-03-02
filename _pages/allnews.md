@@ -1,12 +1,12 @@
 ---
-title: "News | Complex Additive Materials Group | Department of Engineering at the University of Cambridge"
+title: "组内动态 | 张圆教授课题组"
 layout: textlay
-excerpt: "News | Complex Additive Materials Group | Department of Engineering at the University of Cambridge"
+excerpt: "组内动态 | 张圆教授课题组"
 sitemap: false
 permalink: /allnews.html
 ---
 
-# News
+# 组内动态
 
 {% for article in site.data.news %}
 
