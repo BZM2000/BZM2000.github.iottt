@@ -1,15 +1,15 @@
-- name: Sebastian Pattinson
+- name: 张圆
   photo: sebastian_pattinson.jpg
-  info: University Lecturer (Assistant Professor)
-  email: swp29@cam.ac.uk
-  bio: Before joining the Department, Sebastian was a postdoctoral fellow in the Department of Mechanical Engineering at MIT where he developed 1) new additively manufactured devices whose structure and composition are designed to improve interaction with the human body 2) scalable and sustainable methods for 3D printing cellulose, the world's most abundant organic polymer. He received Ph.D. and Masters degrees in the Department of Materials Science & Metallurgy at the University of Cambridge, where he developed synthesis methods to control the structure and function of nanomaterials. His awards include a UK Academy of Medical Sciences Springboard award, US National Science Foundation postdoctoral fellowship; UK Engineering and Physical Sciences Research Council Doctoral Training Grant; MIT Translational Fellowship; and a (Google) X Moonshot Fellowship.
+  info: 教授
+  email: y.zhang@sjzu.edu.cn
+  bio: 简介
 
 - name: Xijin Hua
   photo: xijin_hua.jpg
   info: Postdoc
   email: xh308@cam.ac.uk
-  bio: Dr Xijin Hua obtained his PhD degree from the Institute of Medical and Biological Engineering (iMBE) at University of Leeds, where he worked on the stratified design, development and biomechanical analysis of orthopaedic hip implants. He was then working as a research fellow in iMBE, focusing on the biomechanical analysis of articular cartilage in natural hip joint through imaging technique, finite element analysis and parameterised modelling. Before joining the Department, he was a Marie Skłodowska-Curie Individual Fellow in the Institute for Biomechanics, ETH Zurich, working on the multiscale computational biomechanics of the musculoskeletal system, soft tissue and hip joint through coupling a multibody dynamics model of the human body, a finite element model of hip joint and articular cartilage, and a finite element model of the fluid flow within hip joint. His awards include a Fully-funded International Research Scholarship, an European Marie Skłodowska-Curie Individual Fellowship, and an Imaged-based Biomedical Modelling Fellowship.
-
+  bio: 简介
+  
 - name: Cassi Henderson
   photo: cassi_henderson.jpg
   info: Postdoc
