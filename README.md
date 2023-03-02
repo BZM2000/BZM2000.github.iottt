@@ -1,11 +1,5 @@
-# The CAM Group Website
+# 张圆教授课题组网站
 
-This is the website of our academic research group at the Institute for Manufacturing in the Department of Engineering at the University of Cambridge.
+此网站系沈阳建筑大学建筑与规划学院张圆教授主持的课题组之半官方网站。更新可能不及时，请以实际情况为准。
 
-This website is powered by Jekyll and some Bootstrap, Bootwatch. We tried to make it simple yet adaptable, so that it is easy for you to use it as a template. Plese feel free to copy and modify for your own purposes.
-
-Thanks to the [Allan Lab](http://www.allanlab.org/) for providing the basis for this site. Source available [here](https://github.com/mpa139/allanlab).
-
-
-Copyright CAM Group. Code released under the MIT License.
-
+This website is powered by Jekyll and some Bootstrap, Bootwatch. Code forked from the website of the Aomplex Additive Materials Group at University of Cambridge cam-cambridge.github.io.
