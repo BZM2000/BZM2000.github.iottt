@@ -6,6 +6,8 @@ sitemap: false
 permalink: /publications/
 ---
 
+# 文章列表
+
 {% for publi in site.data.publist %}
 
 {{ publi.title }} <br />
