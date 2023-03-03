@@ -9,7 +9,7 @@ permalink: /publications/
 {% for publi in site.data.publist %}
 
 {{ publi.title }} <br />
-<strong>{{ publi.journal }}</strong> {{ publi.year }} <br />
-<em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+<em><strong>{{ publi.journal }}</strong></em>, {{ publi.year }} <br />
+{{ publi.authors }} <br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
