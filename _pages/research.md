@@ -1,7 +1,7 @@
 ---
-title: "研究进展 | 张圆教授课题组"
+title: "研究进展 | 张圆教授课题组 | 沈阳建筑大学"
 layout: textlay
-excerpt: "研究进展 | 张圆教授课题组"
+excerpt: "研究进展 | 张圆教授课题组 | 沈阳建筑大学"
 sitemap: false
 permalink: /research/
 ---
