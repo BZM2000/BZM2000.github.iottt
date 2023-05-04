@@ -1,12 +1,12 @@
 ---
-title: "组内动态 | 张圆教授课题组 | 沈阳建筑大学"
+title: "新闻动态 | 张圆教授课题组 | 沈阳建筑大学"
 layout: textlay
-excerpt: "组内动态 | 张圆教授课题组 | 沈阳建筑大学"
+excerpt: "新闻动态 | 张圆教授课题组 | 沈阳建筑大学"
 sitemap: false
 permalink: /allnews.html
 ---
 
-# 组内动态
+# 新闻动态
 
 {% for article in site.data.news %}
 
