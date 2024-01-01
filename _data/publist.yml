@@ -9,7 +9,7 @@
 - title: "Revealing the widespread existence and serious adverse health consequences of low-price rental housing in urban villages in Xiamen, China"
   journal: "Humanities & Social Sciences Communications"
   year: "2023"
-  authors: Jiaxin Li, Jiongjiong Yuan, Yong Huang and Yuan Zhang*
+  authors: Jiaxin Li, Jiongjiong Yuan, Yong Huang and Yuan Zhang^
   link:
     url: https://www.nature.com/articles/s41599-023-01907-4
     display:  "DOI:10.1057/s41599-023-01907-4" 
@@ -17,12 +17,12 @@
 - title: "Multiple regression model for soundscape perception in urban open spaces based on ex-situ experiments with audios from 27 localities"
   journal: "Proceedings of the 24th International Congress on Acoustics"
   year: "2022"
-  authors: Min Li, Haochen Guo, Rumei Han, Yuan Zhang*, Jian Kang
+  authors: Min Li, Haochen Guo, Rumei Han, Yuan Zhang^, Jian Kang
  
 - title: "城市社区公园声景分布与景观特征关联性研究——以沈阳鲁迅公园为例"
   journal: "应用声学"
   year: "2022"
-  authors: 张芮宁, 张圆*, 刘洋
+  authors: 张芮宁, 张圆^, 刘洋
   link:
     url: http://yysx.cnjournals.cn/ch/reader/view_abstract.aspx?file_no=21323&flag=1
     display:  "DOI: 10.11684/j.issn.1000-310X.2022.02.005" 
@@ -30,7 +30,7 @@
 - title: "Physical and Psychoacoustic Characteristics of Typical Noise on Construction Site: How Does Noise Impact Construction Workers’ Experience?"
   journal: "Frontiers in Psychology"
   year: "2021"
-  authors: Xinhao Yang, Yitong Wang, Ruining Zhang, Yuan Zhang*
+  authors: Xinhao Yang, Yitong Wang, Ruining Zhang, Yuan Zhang^
   link:
     url: https://www.frontiersin.org/articles/10.3389/fpsyg.2021.707868/full
     display:  "DOI: 10.3389/fpsyg.2021.707868" 
@@ -38,12 +38,12 @@
 - title: "Soundscape assessment: Towards a validated translation of perceptual attributes in different languages"
   journal: "Inter-Noise and Noise-Con Congress and Conference Proceedings"
   year: "2020"
-  authors: Francesco Aletta, Tin Oberman, Östen Axelsson, Hui Xie, Yuan Zhang, Siu-Kit Lau, Shiu-Keung Tang, Kristian Jambrošić, Bert De Coensel, Kirsten Van den Bosch, Pierre Aumond, Catherine Guastavino, Catherine Lavandier, André Fiebig, Brigitte Schulte-Fortkamp, Joko Sarwono, Anugrah Sudarsono, Arianna Astolfi, Koji Nagahata, Jin-Yong Jeon, Hyun-In Jo, Julia Chieng, Woon-Seng Gan, Joo-Young Hong, Bhan Lam, Zhen-Ting Ong, Pablo Kogan, Enrique Suárez Silva, Jerónimo Vida Manzano, Papatya Nur Dökmeci Yörükoğlu, Thu Lan Nguyen, Jian Kang*
+  authors: Francesco Aletta, Tin Oberman, Östen Axelsson, Hui Xie, Yuan Zhang, Siu-Kit Lau, Shiu-Keung Tang, Kristian Jambrošić, Bert De Coensel, Kirsten Van den Bosch, Pierre Aumond, Catherine Guastavino, Catherine Lavandier, André Fiebig, Brigitte Schulte-Fortkamp, Joko Sarwono, Anugrah Sudarsono, Arianna Astolfi, Koji Nagahata, Jin-Yong Jeon, Hyun-In Jo, Julia Chieng, Woon-Seng Gan, Joo-Young Hong, Bhan Lam, Zhen-Ting Ong, Pablo Kogan, Enrique Suárez Silva, Jerónimo Vida Manzano, Papatya Nur Dökmeci Yörükoğlu, Thu Lan Nguyen, Jian Kang^
 
 - title: "健康环境视角下开放式办公空间声环境问题及影响"
   journal: "科学通报"
   year: "2020"
-  authors: 刘洋, 张圆*, 张芮宁
+  authors: 刘洋, 张圆^, 张芮宁
   link:
     url: https://www.researchgate.net/profile/Ruining-Zhang-3/publication/339535240_Problems_and_impacts_associated_with_the_acoustic_environment_of_open-plan_offices_from_the_perspective_of_healthy_environment/links/62baca5f056dae24e8e92fe4/Problems-and-impacts-associated-with-the-acoustic-environment-of-open-plan-offices-from-the-perspective-of-healthy-environment.pdf
     display:  "DOI: 10.1360/TB-2019-0524" 
@@ -51,7 +51,7 @@
 - title: "健康建筑声环境研究进展"
   journal: "科学通报"
   year: "2020"
-  authors: 康健*, 马蕙, 谢辉, 张圆, 李忠哲
+  authors: 康健^, 马蕙, 谢辉, 张圆, 李忠哲
   link:
     url: https://discovery.ucl.ac.uk/id/eprint/10094265/1/paper.pdf
     display:  "DOI: 10.1360/TB-2019-0465" 
@@ -59,12 +59,12 @@
 - title: "基于城市形态的高密度城市小学校园声环境调查研究——以沈阳市为例"
   journal: "华中建筑"
   year: "2020"
-  authors: 张珍, 张圆*
-
+  authors: 张珍, 张圆^
+  
 - title: "Influence of urban road characteristics on traffic noise"
   journal: "Transportation Research Part D: Transport and Environment"
   year: "2019"
-  authors: Xiaodong Lu*, Jian Kang, Peisheng Zhu, Jun Cai, Fei Guo, Yuan Zhang
+  authors: Xiaodong Lu^, Jian Kang, Peisheng Zhu, Jun Cai, Fei Guo, Yuan Zhang
   link:
     url: https://www.sciencedirect.com/science/article/pii/S1361920919303517
     display:  "DOI: 10.1016/j.trd.2019.08.026" 
@@ -72,37 +72,37 @@
 - title: "Experimental research on influencing factors of urban street traffic acoustic annoyance based on VR experience"
   journal: Proceedings of the 26th International Congress on Sound and Vibration
   year: 2019
-  authors: Guangyu Zhang, Yuan Zhang*, Haochen Guo
+  authors: Guangyu Zhang, Yuan Zhang^, Haochen Guo
 
 - title: "Investigation and study on the influence of high-density urban traffic noise on the acoustic environment of urban parks"
   journal: Proceedings of the 23rd International Congress on Acoustics
   year: 2019
-  authors: Xinhao Yang, Yuan Zhang*, Siyang Guo
+  authors: Xinhao Yang, Yuan Zhang^, Siyang Guo
 
 - title: "Investigation on the Restoration Effect of Soundscape in Parks in High-Density Cities: Taking Lu Xun Park in Shenyang, China as an Example"
   journal: Proceedings of the 23rd International Congress on Acoustics
   year: 2019
-  authors: Ruining Zhang, Ling Zhu, Yuan Zhang*
+  authors: Ruining Zhang, Ling Zhu, Yuan Zhang^
 
 - title: "交通噪声对儿童影响的研究综述"
   journal: 声学技术
   year: 2018
-  authors: 张珍, 张圆*
+  authors: 张珍, 张圆^
 
 - title: "An Experimental Study on the Influence of Environmental Noise on Students’ Attention"
   journal: Proceedings of the 11th EuroNoise Conference
   year: 2018
-  authors: Zhen Zhang, Yuan Zhang*, Jian Kang
+  authors: Zhen Zhang, Yuan Zhang^, Jian Kang
 
 - title: "An Investigation into the Soundscape Harmony between Historic Mausoleum and Modern Urban Park"
   journal: Proceedings of the 11th EuroNoise Conference
   year: 2018
-  authors: Yao Fu, Ting Xiong, Yuan Zhang*
+  authors: Yao Fu, Ting Xiong, Yuan Zhang^
 
 - title: "Effects of soundscape on the environmental restoration in urban natural environments"
   journal: Noise and Health
   year: 2017
-  authors: Yuan Zhang, Jian Kang*, Joe Kang
+  authors: Yuan Zhang, Jian Kang^, Joe Kang
   link:
     url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5437754/
     display:  "DOI: 10.4103/nah.NAH_73_16" 
@@ -110,12 +110,12 @@
 - title: "高密度城市公共开放空间的恢复性效益研究——以沈阳市为例"
   journal: 建筑学报
   year: 2015
-  authors: 张圆, 康健*, 金虹
+  authors: 张圆, 康健^, 金虹
     
 - title: "An experimental study on the restorative experience of typical urban soundscape based on EDA"
   journal: Proceedings of the 22nd International Congress on Sound and Vibration
   year: 2015
-  authors: Yuan Zhang, Jian Kang*, Hong Jin
+  authors: Yuan Zhang, Jian Kang^, Hong Jin
     
 - title: "城市开放空间声景恢复性效益及声环境品质提升策略研究"
   journal: 新建筑
