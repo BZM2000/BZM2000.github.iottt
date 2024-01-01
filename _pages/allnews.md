@@ -13,4 +13,9 @@ permalink: /allnews.html
 <h3>{{ article.headline }}</h3>
 <p><em>{{ article.date }}</em><br>
 {{ article.text }}<br></p>
+
+{% if article.image %}
+<img src="{{ site.url }}{{ site.baseurl }}/images/newspic/{{ article.image }}" alt="News Image" style="width: 100%; height: auto;">
+{% endif %}
+
 {% endfor %}
