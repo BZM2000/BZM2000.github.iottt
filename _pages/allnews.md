@@ -18,4 +18,8 @@ permalink: /allnews.html
 <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/{{ article.image }}" alt="News Image" style="width: 100%; height: auto;">
 {% endif %}
 
+{% if article.image2 %}
+<img src="{{ site.url }}{{ site.baseurl }}/images/newspic/{{ article.image2 }}" alt="News Image" style="width: 100%; height: auto;">
+{% endif %}
+
 {% endfor %}
