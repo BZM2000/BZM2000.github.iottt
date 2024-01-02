@@ -8,11 +8,13 @@ permalink: /publications/
 
 # 文章列表
 
+{% assign counter = 0 %}
 {% for publi in site.data.publist %}
-{{ forloop.index }}. {{ publi.title }}, <em><strong>{{ publi.journal }}</strong></em>, {{ publi.year }} <br />
-{{ publi.authors }} <br />
-{% if publi.link.url %}
-<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-{% endif %}
-<br />
+  {% assign counter = counter | plus: 1 %}
+  {{ counter }}. {{ publi.title }}, <em><strong>{{ publi.journal }}</strong></em>, {{ publi.year }} <br />
+  {{ publi.authors }} <br />
+  {% if publi.link.url %}
+    <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  {% endif %}
+  <br />
 {% endfor %}
