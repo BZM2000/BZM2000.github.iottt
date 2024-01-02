@@ -8,10 +8,32 @@ permalink: /publications/
 
 # 文章列表
 
-{% for publi in site.data.publist %}
+<style>
+    .reverse-ol {
+        list-style-type: none;
+        counter-reset: item-counter;
+    }
+    .reverse-ol li {
+        counter-increment: item-counter;
+    }
+    .reverse-ol li::before {
+        content: counter(item-counter) " ";
+        border: 2px solid black;
+        border-radius: 50%;
+        width: 1.5em;
+        height: 1.5em;
+        text-align: center;
+        display: inline-block;
+        margin-right: 10px;
+    }
+</style>
 
-{{ publi.title }} <br />
-<em><strong>{{ publi.journal }}</strong></em>, {{ publi.year }} <br />
-{{ publi.authors }} <br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
+<ol class="reverse-ol">
+{% for publi in site.data.publist reversed %}
+    <li>
+        {{ publi.title }} <br />
+        <em><strong>{{ publi.journal }}</strong></em>, {{ publi.year }} <br />
+        {{ publi.authors }} <br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+    </li>
 {% endfor %}
+</ol>
