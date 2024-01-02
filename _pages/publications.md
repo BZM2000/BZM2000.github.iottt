@@ -14,7 +14,6 @@ permalink: /publications/
   {{ counter }}. {{ publi.title }}, <em><strong>{{ publi.journal }}</strong></em>, {{ publi.year }} <br />
   {{ publi.authors }} <br />
   {% if publi.link.url %}
-    <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+    <a href="{{ publi.link.url }}">{{ publi.link.display }}</a><br />
   {% endif %}
-  <br />
 {% endfor %}
