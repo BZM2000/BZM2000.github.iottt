@@ -8,6 +8,8 @@ permalink: /publications/
 
 # 文章列表
 
+M=硕士生 D=博士生 数字=毕业年
+
 {% for publi in site.data.publist %}
 {{ forloop.index }}. {{ publi.title }}, <em><strong>{{ publi.journal }}</strong></em>, {{ publi.year }} <br />
 {{ publi.authors }}
