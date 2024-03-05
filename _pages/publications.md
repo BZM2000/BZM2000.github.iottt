@@ -8,7 +8,7 @@ permalink: /publications/
 
 # 文章列表
 
-U = 本科生   M = 硕士生   D = 博士生   数字 = 毕业年
+U = 本科生   M = 硕士生   D = 博士生   数字 = 入学年
 
 {% for publi in site.data.publist %}
 {{ forloop.index }}. {{ publi.title }}, <em><strong>{{ publi.journal }}</strong></em>, {{ publi.year }} <br />
